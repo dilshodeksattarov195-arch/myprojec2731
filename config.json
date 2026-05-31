@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configeync",
+        "uuid": 16779264,
+        "checksum": "duibf"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
